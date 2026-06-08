@@ -10,8 +10,8 @@
 
   
   
-  # Individual #
+# Individual #
 
-  ## To Complete: ##
-    #### Create 3-5 questions from Pew Research Wealth Gap publication ####
-    #### Create program for Wealth Gap project ####
+## To Complete: ##
+  #### Create 3-5 questions from Pew Research Wealth Gap publication ####
+   #### Create program for Wealth Gap project ####
