@@ -1,4 +1,3 @@
-'''
 # Group Project #
 
 ## Completed: ##
@@ -11,9 +10,8 @@
 
   
   
-  # #Individual #
+  # Individual #
 
-  ##To Complete:##
+  ## To Complete: ##
     #### Create 3-5 questions from Pew Research Wealth Gap publication ####
     #### Create program for Wealth Gap project ####
-  '''
