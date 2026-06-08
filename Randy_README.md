@@ -1,7 +1,7 @@
 # 🟡Group Project #
 
 ## ✅ Completed: ##
-  #### Created 2 multiple choice questions from chapter 8 and chapter 10 ####
+  #### Created 2 multiple choice questions from per chapter (8, 10) ####
   #### Created program to run questions ####
 
 # 🟡Individual #
