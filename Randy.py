@@ -30,6 +30,32 @@ def question_one():
     
 def question_two():
     print("Question 2:")
+    print("What does Cathy O'Neil identify as a major problem with e-scores?\n")
+    
+    print("A. They are updated too frequently.")
+    print("B. They rely only on credit history.")
+    print("C. They are publicly available and routinely reviewed by government agencies.")
+    print("D. They are arbitrary, unaccountable, unregulated, and often unfair.")
+    
+    answer = ""
+    
+    while answer not in ["A", "B", "C", "D"]:
+        answer = input("\nEnter A, B, C, or D: ").upper()
+        
+    if answer == "D":
+        print("\nCorrect!")
+    else: 
+        while answer != "D":
+            print("\nNot quite.")
+            answer = input("Try again A, B, C, or D: ").upper()
+                            
+        print("\nCorrect!")
+        
+    print("\nAccording to O'Neil, e-scores are usually created using hidden algorithms and data that we cannot challenge. Due to the lack of transparency, they can produce outcomes that affect our access to credit, jobs, and financial opportunities.")
+    input("\nPress Enter to continue to the next question")
+    
+def question_three():
+    print("Question 3:")
     print("What makes targeted political advertising different from traditional television political advertising?\n")
     
     print("A. Targeted political ads use personal data to reach specific groups of voters with customized messages.")
@@ -56,6 +82,7 @@ def question_two():
 def main():
     question_one()
     question_two()
+    question_three()
         
     print("\nYou have reached the end of quiz!")
     input("\nPlease press Enter to exit...")
