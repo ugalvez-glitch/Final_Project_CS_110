@@ -83,6 +83,4 @@ def Ulysses_code_chapt_10():
 			break
 		else:
 			print("Please type in a letter from the list")
-				
-Ulysses_code_chapt_10()
 		
