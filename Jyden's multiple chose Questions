@@ -1,59 +1,60 @@
-#copy and pasted from Mu editor
+def Jyden_code():
 #Question 1
-print("\n1. What advancement did the FICO scoring do to the banking industry?")
-print("a.) Allowing them to print money")
-print("b.) Only looked at a person's finances instead of basing decisions off comunity judgment")
-print("c.) Allow them to lend your money at a leverage rate")
-print("d.) Let the banks get bailed out after crashign the economy in 2008")
+    print("1. What advancement did the FICO scoring do to the banking industry?")
+    print("a.) Allowing them to print money")
+    print("b.) Only looked at a person's finances instead of basing decisions off comunity judgment")
+    print("c.) Allow them to lend your money at a leverage rate")
+    print("d.) Let the banks get bailed out after crashign the economy in 2008")
 
-answer=input("Choose correct answer:")
+    answer=input("Choose correct answer:")
 
-if answer == "b":
-    print("Correct!")
-else:
-    print("Incorrect! correct answer is 'b'")
+    if answer == "b":
+        print("Correct!")
+    else:
+        print("Incorrect! correct answer is 'b'")
     
 #Question2
-print("\n2. What about e-scores makes them WMD?")
-print("a.) They arearbitrary,unregu;lated, and unaccountable")
-print("b.) Have support of the working class")
-print("c.) Created by Iran")
-print("d.) They are the most effective way to anaylyze a persons future finances")
+    print("\n2. What about e-scores makes them WMD?")
+    print("a.) They arearbitrary,unregu;lated, and unaccountable")
+    print("b.) Have support of the working class")
+    print("c.) Created by Iran")
+    print("d.) They are the most effective way to anaylyze a persons future finances")
 
-answer=input("Choose correct answer:")
-if answer=="a":
-    print("Correct!")
-    
-else:
-    print("Incorrect!Right answer is 'a'")
-    
-#question3
-print("\n3. What is O'Neil main concern about the Facebook news feed algorithms?")
-print("a.) Shows too many advervisements")
-print("b.)can shape political behvaior by controlling what the users see")
-print("c.) Slows down trhe internet speed")
-print("d.) Gets rid of political content entirely")
+    answer=input("Choose correct answer:")
+    if answer=="a":
+        print("Correct!")
+        
+    else:
+        print("Incorrect!Right answer is 'a'")
+        
+    #question3
+    print("\n3. What is O'Neil main concern about the Facebook news feed algorithms?")
+    print("a.) Shows too many advervisements")
+    print("b.)can shape political behvaior by controlling what the users see")
+    print("c.) Slows down trhe internet speed")
+    print("d.) Gets rid of political content entirely")
 
-answer=input("Choose correct answer:")
+    answer=input("Choose correct answer:")
 
-if answer=="b":
-    print("Correct!")
-    
-else:
-    print("Incorrrect!. Correct answer is 'b'")
-    
-#Question4
-print("\n4. What is the broader warning in Chapter 10?")
-print("a.)Tech companies are going to create Skynet")
-print("b.)Political campaigns are going to rethink using big data")
-print("c.)Algorithms can quietly influence demacracy without public accountability")
-print("d.)Furries are the real threat to demacracy")
+    if answer=="b":
+        print("Correct!")
+        
+    else:
+        print("Incorrrect!. Correct answer is 'b'")
+        
+    #Question4
+    print("\n4. What is the broader warning in Chapter 10?")
+    print("a.)Tech companies are going to create Skynet")
+    print("b.)Political campaigns are going to rethink using big data")
+    print("c.)Algorithms can quietly influence demacracy without public accountability")
+    print("d.)Furries are the real threat to demacracy")
 
-answer=input("Choose correct answer:")
+    answer=input("Choose correct answer:")
 
-if answer== "c":
-    print("Correct!")
-else:
-    print("incorrect!. answer is 'c'")
-    
-print("\nQuiz:Complete")
+    if answer== "c":
+        print("Correct!")
+    else:
+        print("incorrect!. answer is 'c'")
+        
+    print("\nQuiz:Complete")
+Jyden_code()
