@@ -1,10 +1,12 @@
-print("\nWeapons of Math Destruction") 
-print("Chapter 8: Collateral Damage: Landing Credit")
-print("--------------------------------------------")
+print("       Weapons of Math Destruction") 
+print("             Knowledge Quiz")
+print("============================================")
 
-def question_one():
-    print("Question 1:")
-    print("How can the feedback loop created by e-scores contribute to wealth inequality?\n")
+def chapter8_questions():
+    print("\nChapter 8: Collateral Damage: Landing Credit")
+    print("--------------------------------------------")
+    print("Question 1\n")
+    print("How can the feedback loop created by e-scores contribute to wealth inequality?")
     
     print("A. It gives everyone equal access to financial opportunities.")
     print("B. It helps people with low scores improve their credit more quickly.")
@@ -26,10 +28,9 @@ def question_one():
         print("\nCorrect!")
         
     print("\nO'Neil explains that when people are labeled as higher risk due to lower e-scores, they may face higher interest rates, fewer opportunities, and more predatory financial products. This is an example of a feedback loop that creates a cycle of ongoing inequality.")
-    input("\nPress Enter to continue to the next question")
+    input("\n\nPress Enter to continue to the next question\n\n")
     
-def question_two():
-    print("Question 2:")
+    print("Question 2\n")
     print("What does Cathy O'Neil identify as a major problem with e-scores?\n")
     
     print("A. They are updated too frequently.")
@@ -52,10 +53,13 @@ def question_two():
         print("\nCorrect!")
         
     print("\nAccording to O'Neil, e-scores are usually created using hidden algorithms and data that we cannot challenge. Due to the lack of transparency, they can produce outcomes that affect our access to credit, jobs, and financial opportunities.")
-    input("\nPress Enter to continue to the next question")
+    input("\n\nPress Enter to continue to the next question\n")
     
-def question_three():
-    print("Question 3:")
+def chapter10_questions():
+    print("----------------------------------------------")
+    print("\nChapter 10: The Targeted Citizen: Civic Life\n")
+    print("----------------------------------------------")
+    print("Question 3\n")
     print("Why is it difficult to hold campaigns accountable for misleading targeted political advertisements?\n")
     
     print("A. All targeted ads are reviewed by independent fact-checkers.")
@@ -78,10 +82,9 @@ def question_three():
         print("\nCorrect!")
         
     print("\nAccording to O'Neill, targeted ads are shown only to certain groups, misleading or contradictory messages may go unnoticed by the general public, journalists, and opposing campaigns.")
-    input("\nPress Enter to continue to the next question")
+    input("\n\nPress Enter to continue to the next question\n\n")
     
-def question_four():
-    print("Question 4:")
+    print("Question 4\n")
     print("What makes targeted political advertising different from traditional television political advertising?\n")
     
     print("A. Targeted political ads use personal data to reach specific groups of voters with customized messages.")
@@ -105,13 +108,11 @@ def question_four():
         
     print("\nAccording to O'Neil, unlike television ads that are broadcast to a broad audience, targeted political ads use data about voters' interests, demographics, and online behavior to deliver tailored messages designed to influence specific groups.")
 
-def main():
-    question_one()
-    question_two()
-    question_three()
-    question_four()
+def questions():
+    chapter8_questions()
+    chapter10_questions()
         
     print("\nYou have reached the end of quiz!")
     input("\nPlease press Enter to exit...")
         
-main()
+questions()
