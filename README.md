@@ -7,6 +7,33 @@ Final project for Anna, Randy, Jyden, and Ulysses
 
 Chap. 8 - for each member, create two multiple choice questions in a separate python file from part_1
 
+#weapons of math destruction
+##Chapter 8:Collateral damage(summary)
+Chapter 8 tells how the financial industry increasingly relies on algorithms to judge people's creditworthiness and economic value. Historically, local bankers made lending decisions based on personal knowledge of borrowers, which often led to discrimination. The development of the FICO credit score was intended to make lending more objective and fair by focusing on financial behavior rather than personal characteristics or race.
+
+A new form of scoring- e-scores— have moved away from the transparency and accountability of FICO. These scores use vast amounts of personal data, including ZIP codes, purchasing habits, internet activity, and social connections, to make predictions about consumers. These new scoring models are often secret, difficult to challenge, and largely unregulated fitting the discription of WMD.
+
+These systems use proxies for wealth, race, class, and social status. Even when a model does not explicitly consider race or income, variables such as neighborhood or shopping patterns can indirectly produce the same discriminatory outcomes.
+
+##background infomation
+1.)FICO score was developed by Bill Fair and Earl Isaac to estimate the likelihood that a borrower will repay debt. It uses factors such as payment history, debt levels, and length of credit history.
+
+2.) E-scores are proprietary scoring systems that use many kinds of consumer data beyond traditional credit information.
+Examples include:
+-ZIP code
+-Web browsing behavior
+-Purchase history
+-Social media activity
+-Online interactions
+
+3.)Proxy variable is a substitute measure used when a desired variable cannot be used directly.
+Examples:
+-ZIP code can act as a proxy for income.
+-Neighborhood can act as a proxy for race.
+-Shopping behavior can act as a proxy for social class.
+
+
+
 
 ----------------------------------------------
 ----------------------------------------------
