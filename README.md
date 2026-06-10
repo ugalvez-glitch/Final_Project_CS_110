@@ -4,7 +4,7 @@ Final project for Anna, Randy, Jyden, and Ulysses
 # Part_1
 Chap. 8 - for each member, create two multiple choice questions in a separate python file from part_1
 # Part_2
-README.md
+
 # Weapons of Math Destruction 
 ## Chapter 10: The Targeted Civilian- Civic Life Knowledge Quiz
 ## Description 
