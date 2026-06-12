@@ -30,6 +30,7 @@ Examples:
 * Neighborhood can act as a proxy for race,
 * Shopping behavior can act as a proxy for social class.
 
+
 ## **Background infomation for Chapter 8 questions**
 User location: Can correlate with average income,property values, and historical lending patterns.
 
