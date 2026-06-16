@@ -167,3 +167,4 @@ def main():
         student()
     print("You have now reached the end of the Chapter 10 questions.")
     print("Activity Complete")
+dsj_topic()
