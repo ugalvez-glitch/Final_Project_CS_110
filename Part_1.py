@@ -162,6 +162,3 @@ def dsj_topic():
 			print("Please type in a letter from the list")
 			
 	print("-------------------")
-	
-	
-dsj_topic
