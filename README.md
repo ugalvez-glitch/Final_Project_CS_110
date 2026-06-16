@@ -18,18 +18,36 @@ These systems use proxies for wealth, race, class, and social status. Even when 
 
 2.) E-scores are proprietary scoring systems that use many kinds of consumer data beyond traditional credit information.
 Examples include:
-ZIP code,
-Web browsing behavior,
-Purchase history,
-Social media activity,
-Online interactions
+* ZIP code,
+* Web browsing behavior,
+* Purchase history,
+* Social media activity,
+*nOnline interactions
 
 3.)Proxy variable is a substitute measure used when a desired variable cannot be used directly.
 Examples:
-ZIP code can act as a proxy for income,
-Neighborhood can act as a proxy for race,
-Shopping behavior can act as a proxy for social class.
+* ZIP code can act as a proxy for income,
+* Neighborhood can act as a proxy for race,
+* Shopping behavior can act as a proxy for social class.
 
+
+## **Background infomation for Chapter 8 questions**
+User location: Can correlate with average income,property values, and historical lending patterns.
+
+-User's Online activity: may reveal shoping habits,interests, spending behavior,or financial concerns.
+
+-Public goverment data : can include property records, census information, business registration, and other publicly avaible database.
+
+-Zip codes: are frequently used as proxies as economic status
+
+Nieghborhood data can reveal average income, home values, foreclosure, and other factors.
+
+## **Additional term**
+- **Proxy variable:** a substitute measure used when direct information is unavaible.
+- **Predictive analytics:** Using data to predict the future behaviors.
+- **Algorithmic bias:** Systematic unfairness produce by algorithms.
+- **Feedback Loops:** When algorithms decisions create outcomes that reinforce the algorthim original assumption.
+- **Digital redlining :** uising data such as zipcodes or neighborhood characteristics 
 
 
 
